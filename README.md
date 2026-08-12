@@ -1,5 +1,3 @@
-# Mentorship_Data_Architecture
-
 
 # Data Architecture Assignment
 
