@@ -15,4 +15,14 @@ Choosing between a Centralized Data Warehouse and a Federated Data Mesh approach
 
 ## Assignment 2
 
-Will be updated later.
+### Decision Matrix
+Compare 2-tier vs 3-tier architecture.
+
+### Architecture Diagram
+Design the recommended architecture and its layers. Using draw.io
+
+### Layer Definitions
+Explain the role of each architecture layer.
+
+### Mart Integration
+Show how the 5 existing data marts fit into the architecture and their migration strategy.
