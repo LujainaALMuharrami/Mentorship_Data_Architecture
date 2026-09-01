@@ -26,3 +26,15 @@ Explain the role of each architecture layer.
 
 ### Mart Integration
 Show how the 5 existing data marts fit into the architecture and their migration strategy.
+
+## Assignment 3
+
+### Bus Matrix (Part A)
+
+Create a Bus Matrix to map business processes with shared conformed dimensions.
+
+### Conformance Matrix (Part B)
+
+Define key attributes, ensure consistency across processes, and address conformance issues.
+
+
