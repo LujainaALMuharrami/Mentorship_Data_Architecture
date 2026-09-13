@@ -37,4 +37,15 @@ Create a Bus Matrix to map business processes with shared conformed dimensions.
 
 Define key attributes, ensure consistency across processes, and address conformance issues.
 
+## Assignment 4
+
+### Source-to-Target Mapping (Part A)
+
+Map source fields from CRM to target dim_customer
+
+### Integration Architecture (Part B)
+Integration design
+
+
+
 
